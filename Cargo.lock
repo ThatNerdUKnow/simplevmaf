@@ -535,6 +535,7 @@ dependencies = [
  "clap",
  "indicatif",
  "libvmaf-rs",
+ "num_cpus",
 ]
 
 [[package]]
